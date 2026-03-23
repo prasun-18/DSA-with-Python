@@ -5,4 +5,4 @@ def fact(n):
 
 num = int(input("Enter the number to find the factorial\n"))
 res = fact(num)
-print("Factorial of", num, " =", res)
+print("Factorial of", num, "=", res)
