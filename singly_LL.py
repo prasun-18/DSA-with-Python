@@ -22,7 +22,7 @@ print("node5's data =", node5.data," Address of the next node, node n's address 
 
 head = node1
 
-print("\n Here the singly linked list will look like something as per our assumption \n")
+print("\n Here's the singly linked list will look like something as per our assumption \n")
 
 while head != None:
     print(head.data, "->", end = " ")
